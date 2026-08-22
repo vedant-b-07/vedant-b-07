@@ -12,8 +12,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vedant-b-07&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/vedant-b-07?style=for-the-badge&color=7dd3fc&labelColor=black)
+
 
 </div>
 
@@ -84,7 +83,7 @@ A Python-based chatbot project that uses natural language processing to understa
 
 <img src="https://streak-stats.demolab.com?user=vedant-b-07&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=vedant-b-07&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" alt="GitHub Trophies" />
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-b-07&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Graph" />
 
