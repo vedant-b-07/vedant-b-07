@@ -20,41 +20,49 @@
 
 ## 👨‍💻 Who I Am
 
-```typescript
-const vedant = {
-  title: "Aspiring AI Engineer",
-  stack: {
-    languages: ["Python"],
-    aiAndDataScience: ["TensorFlow", "scikit-learn"],
-    cloud: ["AWS"],
-  },
-  launchedProjects: ["Chat-Bot — NLP-powered conversational chatbot"],
-  certifications: [],
-  status: "Learning & building AI/ML projects",
-  openTo: "Full-time opportunities",
-};
-```
+I'm a **B.Tech Information Technology student at VIT Vellore** with a strong passion for **Artificial Intelligence, Machine Learning, and Data Science**. I'm focused on developing practical, intelligent solutions that transform real-world problems into impactful applications.
 
+Currently, I'm working on **AI/ML projects using Python, Machine Learning, NLP, TensorFlow, and AWS**, while continuously strengthening my foundations in data science, deep learning, and AI engineering.
+
+I enjoy learning by building — experimenting with new technologies, solving challenging problems, and turning ideas into working projects. My goal is to grow into a **skilled AI Engineer** capable of designing, developing, and deploying intelligent systems.
+
+- 🎓 **B.Tech Information Technology** — VIT Vellore
+- 🤖 **Aspiring AI Engineer** | AI/ML & Data Science
+- 🐍 **Python** | Machine Learning | NLP | TensorFlow
+- ☁️ **AWS** | AI/ML Deployment & Cloud
+- 🚀 **Currently building AI/ML projects**
+- 📚 **Exploring Deep Learning, Generative AI & LLMs**
+- 💡 **Interested in solving real-world problems with AI**
+- 💼 **Open to AI/ML & Software Engineering opportunities**
+
+<br/>
+🎓 Education
+
+**Vellore Institute of Technology (VIT), Vellore**
+**B.Tech — Information Technology** | 2024 – 2028
+
+Focused on **Artificial Intelligence, Machine Learning, Data Science, and Software Engineering**.
 <br/>
 
 ## 🚀 Featured Projects
+### 🧾 Vendor Invoice Intelligence
 
-### 🤖 Chat-Bot
+An AI-powered invoice processing application built to extract, analyze, and organize information from vendor invoices, helping automate manual document-processing workflows.
 
-A Python-based chatbot project that uses natural language processing to understand user queries and provide relevant, interactive responses.
+**Tech Stack:** Python • Machine Learning • Streamlit • AWS
 
-<div align="left">
-  <a href="https://github.com/vedant-b-07/Chat-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedant-b-07&repo=Chat-Bot&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Chat-Bot repo card" />
-  </a>
-</div>
+* 🤖 AI/ML-powered invoice processing
+* 📄 Intelligent document data extraction
+* 📊 Automated invoice insights
+* ☁️ Cloud deployment
+* 🚀 End-to-end AI application
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Domain | Natural Language Processing (NLP) |
+🔗 **[GitHub Repository](https://github.com/vedant-b-07/Vendor-Invoice-intelligence)** • **[Live Demo](https://vendor-invoice-intelligence-jcc8isi4k5n7be53rla86w.streamlit.app/)**
 
-🔗 **Code:** [github.com/vedant-b-07/Chat-Bot](https://github.com/vedant-b-07/Chat-Bot)
+<br/>
+
+> 🔨 **Currently building more AI projects in Machine Learning, Generative AI & Agentic AI.**
+
 
 <br/>
 
