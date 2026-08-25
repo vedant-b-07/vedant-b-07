@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Vedant%20Bhadange&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Vedant%20Bhadange&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=20" alt="header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FCFF&center=true&vCenter=true&width=600&lines=CS+Student;AI+%2F+ML+Enthusiast;Building+with+Python+%26+TensorFlow;Exploring+Data+Science+on+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FCFF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Aspiring+AI+Engineer;AI+%2F+ML+Developer;Python+Developer;Building+with+Python+%26+TensorFlow;Exploring+AI+on+AWS alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ```typescript
 const vedant = {
-  title: "CS Student",
+  title: "Aspiring AI Engineer",
   stack: {
     languages: ["Python"],
     aiAndDataScience: ["TensorFlow", "scikit-learn"],
